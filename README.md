@@ -13,7 +13,7 @@ The spam classifier was trained on a labeled dataset of text messages or emails,
 
 ## Demo
 
-Insert gif or link to demo
+![Animated GIF](https://github.com/Hiteshydv001/Spam-Classifier-using-Machine-codeclause-learning/blob/main/2023-09-29-18-06-13.mp4)
 
 
 
