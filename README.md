@@ -78,6 +78,21 @@ The spam classifier was trained on a labeled dataset of text messages or emails,
 - Implement an interface for users to submit text for classification.
 
 
+## Tech Stack
+
+**Languages:** Python 
+
+**Framework:** Jupyter Notebook || Pycharm 
+
+
+
+## 🔗 Links
+
+
+## let's connect
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+
 
 
 
